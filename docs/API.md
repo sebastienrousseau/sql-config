@@ -5,7 +5,7 @@ Comprehensive schema, property definitions, and exported options reference for `
 ---
 
 ## Description
-Shareable SQL configuration providing standardized SQLFluff and SQL formatter rules adhering to modern 2026 standards.
+Shareable SQL configuration standards providing dialect-aware SQLFluff linting and SQL formatting presets.
 
 ---
 
@@ -18,3 +18,15 @@ Shareable SQL configuration providing standardized SQLFluff and SQL formatter ru
 | `index.d.ts` | TypeScript | TypeScript >= 5.0 | Type declarations |
 
 ---
+
+## Feature & Property Reference
+
+### 1. .sqlfluff
+- **Description**: Dialect-aware SQLFluff linting preset enforcing uppercase keywords, lowercase identifiers, and indentation.
+- **Scope**: Production & Development
+- **Status**: Stable & Active
+
+### 2. .sql-formatter.json
+- **Description**: Cross-IDE SQL formatter preset for automated code beautification.
+- **Scope**: Production & Development
+- **Status**: Stable & Active
