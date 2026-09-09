@@ -1,0 +1,38 @@
+[
+  {
+    "date": "",
+    "description": "How to install and set up @sebastienrousseau/sql-config.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Installation — @sebastienrousseau/sql-config",
+    "url": "https://sebastienrousseau.com/sql-config/installation/",
+    "wordCount": 45
+  },
+  {
+    "date": "",
+    "description": "Model Context Protocol configuration for @sebastienrousseau/sql-config.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Model Context Protocol (MCP) — @sebastienrousseau/sql-config",
+    "url": "https://sebastienrousseau.com/sql-config/mcp/",
+    "wordCount": 15
+  },
+  {
+    "date": "",
+    "description": "Reference specifications and options for @sebastienrousseau/sql-config.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Reference — @sebastienrousseau/sql-config",
+    "url": "https://sebastienrousseau.com/sql-config/reference/",
+    "wordCount": 30
+  },
+  {
+    "date": "",
+    "description": "How to use and configure @sebastienrousseau/sql-config.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Usage — @sebastienrousseau/sql-config",
+    "url": "https://sebastienrousseau.com/sql-config/usage/",
+    "wordCount": 30
+  }
+]
