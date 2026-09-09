@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-09-09",
+    "description": "Shareable SQL configuration providing standardized SQLFluff and SQL formatter rules adhering to modern 2026 standards.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "@sebastienrousseau/sql-config — Shareable SQL configuration standards for SQLFluff and SQL Formatter.",
+    "url": "https://sebastienrousseau.com/sql-config/index.html",
+    "wordCount": 162
+  },
+  {
     "date": "",
     "description": "How to install and set up @sebastienrousseau/sql-config.",
     "locale": "en-GB",

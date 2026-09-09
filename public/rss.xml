@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Untitled</title>
-    <link>https://sebastienrousseau.com/sql-config</link>
-    <description></description>
+    <title>@sebastienrousseau/sql-config — Shareable SQL configuration standards for SQLFluff and SQL Formatter.</title>
+    <link>https://sebastienrousseau.com/sql-config/</link>
+    <description>Shareable SQL configuration providing standardized SQLFluff and SQL formatter rules adhering to modern 2026 standards.</description>
     <atom:link href="https://sebastienrousseau.com/sql-config/rss.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
+    <copyright>© 2026 Sebastien Rousseau. Licensed under Apache-2.0 OR MIT.</copyright>
     <item>
       <title>Installation — @sebastienrousseau/sql-config</title>
       <link>https://sebastienrousseau.com/sql-config/installation/</link>
