@@ -19,7 +19,9 @@ An exhaustive overview covering **100% of the features, rules, and capabilities*
 ## Feature Deep Dive
 
 ### 1. .sqlfluff
+
 Dialect-aware SQLFluff linting preset enforcing uppercase keywords, lowercase identifiers, and indentation. Designed to guarantee deterministic behavior across all development and continuous integration environments.
 
 ### 2. .sql-formatter.json
+
 Cross-IDE SQL formatter preset for automated code beautification. Designed to guarantee deterministic behavior across all development and continuous integration environments.
