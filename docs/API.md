@@ -5,6 +5,7 @@ Comprehensive schema, property definitions, and exported options reference for `
 ---
 
 ## Description
+
 Shareable SQL configuration standards providing dialect-aware SQLFluff linting and SQL formatting presets.
 
 ---
@@ -22,11 +23,13 @@ Shareable SQL configuration standards providing dialect-aware SQLFluff linting a
 ## Feature & Property Reference
 
 ### 1. .sqlfluff
+
 - **Description**: Dialect-aware SQLFluff linting preset enforcing uppercase keywords, lowercase identifiers, and indentation.
 - **Scope**: Production & Development
 - **Status**: Stable & Active
 
 ### 2. .sql-formatter.json
+
 - **Description**: Cross-IDE SQL formatter preset for automated code beautification.
 - **Scope**: Production & Development
 - **Status**: Stable & Active
