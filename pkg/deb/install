@@ -1,0 +1,9 @@
+index.js usr/share/nodejs/@sebastienrousseau/sql-config/
+index.mjs usr/share/nodejs/@sebastienrousseau/sql-config/
+index.cjs usr/share/nodejs/@sebastienrousseau/sql-config/
+index.d.ts usr/share/nodejs/@sebastienrousseau/sql-config/
+.sqlfluff usr/share/nodejs/@sebastienrousseau/sql-config/
+.sql-formatter.json usr/share/nodejs/@sebastienrousseau/sql-config/
+LICENSE usr/share/nodejs/@sebastienrousseau/sql-config/
+.editorconfig usr/share/nodejs/@sebastienrousseau/sql-config/
+package.json usr/share/nodejs/@sebastienrousseau/sql-config/
