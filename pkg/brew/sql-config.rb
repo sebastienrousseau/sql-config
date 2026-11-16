@@ -6,7 +6,7 @@
 class SqlConfig < Formula
   desc "Shareable SQL configuration providing standardized SQLFluff and SQL formatter rules adhering to modern 2026 standards"
   homepage "https://github.com/sebastienrousseau/sql-config"
-  url "https://registry.npmjs.org/@sebastienrousseau/sql-config/-/sql-config-0.0.7.tgz"
+  url "https://registry.npmjs.org/@sebastienrousseau/sql-config/-/sql-config-0.0.9.tgz"
   license any_of: ["Apache-2.0", "MIT"]
 
   depends_on "node"
